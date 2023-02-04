@@ -1,0 +1,3 @@
+Hello,
+This is text file A.
+It countains a lot of a.
